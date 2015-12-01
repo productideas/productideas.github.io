@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Product Ideas</title>
+ <link href="http://productideas.xyz/atom.xml" rel="self"/>
+ <link href="http://productideas.xyz/"/>
+ <updated>2015-12-02T00:23:28+01:00</updated>
+ <id>http://productideas.xyz</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Automatic bag carrier</title>
+   <link href="http://productideas.xyz/2015/11/28/automatic-bag-carrier/"/>
+   <updated>2015-11-28T00:00:00+01:00</updated>
+   <id>http://productideas.xyz/2015/11/28/automatic-bag-carrier</id>
+   <content type="html">&lt;p&gt;Imagine an automated shopping assistant that follows you around with your bags and clothing. Basically a coat rack on an &lt;a href=&quot;http://www.irobot.com/For-the-Home/Vacuum-Cleaning/Roomba.aspx&quot;&gt;iRobot roomba&lt;/a&gt;, just a bit smarter. We shall call it: &lt;strong&gt;The Automatic Bag Carrier&lt;/strong&gt; or ABC.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://shrani.si/f/3b/ef/2NWI6dR4/roombhanger2.png&quot; alt=&quot;Image of Automatic Bag Carrier&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This would especially be useful in the winter - it gets pretty hot during those Black Friday fights (Epic Black Friday 2015 fight compilation video inside).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/W3JCuC8o1lc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;A low budget version of this is a regular coat rack on wheels, although it probably won&amp;#39;t follow you far ;).&lt;/p&gt;
+
+&lt;p&gt;Happy shopping!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

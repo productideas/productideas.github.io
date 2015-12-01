@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         true
 
 # Permalinks
 permalink:        pretty
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 excerpt_separator: <!--more-->
-
+gems: [jekyll-paginate]
 # Custom vars
 version:          2.0.0
 
